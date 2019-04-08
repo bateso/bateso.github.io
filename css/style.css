@@ -1,0 +1,160 @@
+/* ----    Add your Google Fonts above the rest of your CSS       ----------------------------*/
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe');
+@import url('https://fonts.googleapis.com/css?family=Ruda');
+@import url('https://fonts.googleapis.com/css?family=Antic+Slab');
+
+
+
+/* ----    Keep your CSS organized with comments       ----------------------------==========================================================
+
+CSS COPIED TO EACH PAGE
+
+================================================================== */
+.nav-holder {
+    width:100%;
+}
+
+.navigation a {
+    padding:10px 0px;
+}
+
+ul {
+    list-style-type: none;
+    margin:0;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    width:100%;
+}
+
+li a{
+    display: inline-block;
+}
+
+
+body.container-fluid { 
+    background: rgb(111, 207, 224, 0.88);
+    color: black;
+    height: 100%;
+    margin:0px;
+}
+
+.logo {
+    width: 15%;
+    margin: 20px auto;
+    display: block;
+}
+
+footer {
+    background-color:rgb(111, 207, 224, 0.88);
+    color: black;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width:100%;
+    padding: 20px;
+}
+   
+.amazin-glazin {
+    font-weight: bold;
+    font-family: 'Ruda', sans-serif;;
+    font-size: 25px;
+}
+     
+
+/* === ==========================================================
+
+landing page
+
+================================================================== */
+.welcome-to-AG {
+    background: rgba(255, 255, 255, 0);
+    height:35%;
+    width: 30%;
+    position: absolute;
+    left: 35%;
+    top:30%;
+    padding: 5px;
+    bottom:30%;
+}
+
+.container {
+    position: relative;
+}
+
+.landing-bg {
+    width:100%;
+    height:auto;
+    z-index: -1;
+}
+
+.lp-text {
+    font-family: 'Ruda', sans-serif;
+    color:magenta;
+}
+
+
+
+
+/* === ==========================================================
+
+about us 
+
+================================================================== */
+.gram {
+    height:60px;
+}
+
+
+.about-us-stuff {
+    margin: 50px;
+}
+
+#about-us {
+  margin: auto;
+    width: 80%;
+    text-align: justify;  
+}
+
+.ind-about-us {
+   background-color: white;
+}
+/* === ==========================================================
+
+CSS FOR BLOGS
+
+================================================================== */
+
+.lorem-ipsum {
+    font-weight:bolder;
+    
+    font-family: 'Ruda', sans-serif;;
+}
+
+
+#the-blogs {
+    margin: auto;
+    width: 80%;
+    text-align: justify;
+}
+
+.blog-title {
+    color: black;
+    font-size: 35px;
+    font-family: 'Antic Slab', serif;
+    background-color: rgb(240, 174, 223);
+   
+}
+
+.Blog-Text {
+ font-family: 'Antic Slab', serif;
+}
+
+
+
+.ind-blog {
+    margin: 30px;
+    background-color: white;
+}
+
+/*-- Keep all your "styling and designs" organized with comments! --*/
+
