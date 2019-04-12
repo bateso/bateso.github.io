@@ -156,5 +156,30 @@ CSS FOR BLOGS
     background-color: white;
 }
 
-/*-- Keep all your "styling and designs" organized with comments! --*/
+/* === ==========================================================
+
+menu
+
+================================================================== */
+#menu {
+    margin: auto;
+    width: 80%;
+    text-align: justify;  
+}
+ 
+.ind-menu {
+    background-color: white;
+}
+
+.menu-stuff {
+     margin: 50px;
+}
+
+.create-donut {
+
+}
+
+
+
+
 
